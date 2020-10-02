@@ -1,0 +1,28 @@
+/*This is setting all the body font to arial or halvetica */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /*This is setting all the  underorder list font to monospace */
+  ul {
+    font-family: monospace;
+  }
+  /*This is setting  the list style*/
+  li {
+    list-style: circle;
+  }
+  
+  .list {
+    list-style: square;
+  }
+    /*This is setting to the id */
+  #date {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+  }
+  /*This is setting all the h1 font to arial or halvetica */
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+  }
